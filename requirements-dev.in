@@ -1,0 +1,10 @@
+-c requirements.txt
+
+black
+eth-brownie
+flake8==3.9.2
+isort
+mypy
+pip-tools
+pre-commit
+pytest
